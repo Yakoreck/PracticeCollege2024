@@ -1,0 +1,16 @@
+.carousel {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.item {
+  cursor: pointer;
+  border-radius: 10px;
+  margin-right: 10px;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 100%;
+  background: rgb(205, 205, 205);
+}
